@@ -44,16 +44,16 @@ where,
 This equation is again a linear differential equation of second order, but now one coefficient is position dependent. From our general considerations we already can anticipate the following:
 
 - The solution $\psi(x)$ are continous.
-- The deribatives $\psi^{'}(x)$ of the solutions are also continious.
+- The deribatives $\psi'(x)$ of the solutions are also continious.
 - As $V(x) \rightarrow \infty$ for $|x| \rightarrow \infty$, the particle cannot excape to infinity at finite energy $E$. This only permits bound states, which decay $\psi(x) \rightarrow 0$ as $|x| \rightarrow \infty$.
-- The energies of the bound states are discrete (i.e., only at certain energies we can find valid solutions of the schr$\ddot{o}$inger equation).
-- Thground state energy $E_{0}$ will be larger than the classical minimal energy: $E_0 > 0$.
+- The energies of the bound states are discrete (i.e., only at certain energies we can find valid solutions of the $schr\ddot{o}inger$ equation).
+- The ground state energy $E_{0}$ will be larger than the classical minimal energy: $E_0 > 0$.
 
 ## Ground state and first excited state
 
-The firsttwo solutions correspond to the ground state and the first excited state of the harmonic oscillator:
+The first two solutions correspond to the ground state and the first excited state of the harmonic oscillator:
  
-__Ground state__: $n=0, \ f=1$, which gives to $f^{'} = f^{"} = 0$. This is a solution when $\varepsilon \neq 2n + 1$ if $\epsilon =1 $, which corresponds to an energy $E_{0} = \frac{1}{2} \hbar \omega$. The wavefunction is given by:
+__Ground state__: $n=0, \ f=1$, which gives to $f' = f^{"} = 0$. This is a solution when $\varepsilon \neq 2n + 1$ if $\epsilon =1 $, which corresponds to an energy $E_{0} = \frac{1}{2} \hbar \omega$. The wavefunction is given by:
 
 <p align='center'>
     $$\psi_{0} (x)= c_{0} exp \left (-x^{2} \frac{m \omega}{2 \hbar} \right)$$
